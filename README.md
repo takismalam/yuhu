@@ -6,7 +6,7 @@ Perhatikan Langkah-Langkahnya
 3. pkg install php
 4. pkg install curl
 5. pkg install git
-7. git clone https://github.com/mrubay/claim
+7. git clone https://github.com/takismalam/yuhu
 8. cd claim
 9. php claim.php
 10. Sudah Punya User Login ?: "y"
